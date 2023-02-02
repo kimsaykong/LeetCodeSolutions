@@ -7,7 +7,8 @@ package Solutions;
 //      Input: n = 8
 //      Output: 6
 //      Explanation: 6 is the pivot integer since: 1 + 2 + 3 + 4 + 5 + 6 = 6 + 7 + 8 = 21.
-public class FindthePivotInteger {
+
+public class FindthePivotInteger_2485 {
     public int pivotInteger(int n) {
         int sum = n * (n + 1) / 2, x = (int) Math.sqrt(sum);
         return x * x == sum ? x : -1;
