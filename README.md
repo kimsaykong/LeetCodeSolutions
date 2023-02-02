@@ -1,5 +1,5 @@
 <h2>Java Solutions for LeetCode Problems</h2>
-<p>This repository contains Java solutions for various problems from <a href="https://leetcode.com/">LeetCode</a>, a platform for preparing technical coding interviews. Each class in the repository represents a solution to a specific LeetCode problem, with solutions optimized for time and space complexity. The purpose of this repository is to provide a learning resource and to help individuals prepare for technical interviews.</p>
+<p>This repository contains Java solutions for various problems from <a href="https://leetcode.com/">LeetCode</a>, a platform for preparing technical coding interviews. Each class in the repository is named with the format "Problem_[Problem ID]" and represents a solution to a specific LeetCode problem. The solutions in this repository include explanations of the thought process used to solve each problem, as well as optimized solutions for time and space complexity. The purpose of this repository is to provide a learning resource and to help individuals prepare for technical interviews by understanding how to approach and solve coding problems.</p>
 
 <h2>Getting Started</h2>
 </p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
