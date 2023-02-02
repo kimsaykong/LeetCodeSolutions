@@ -2,7 +2,7 @@ import Solutions.*;
 
 public class App {
     public static void main(String[] args) {
-        MostFrequentEvenElement solutionFunction = new MostFrequentEvenElement();
-        System.out.println(solutionFunction.mostFrequentEven(new int[]{0,1,2,0,0,0,2,4,4,1}));
+        FindPivotIndex_724 solutionFunction = new FindPivotIndex_724();
+        System.out.println(solutionFunction.pivotIndex(new int[]{1,7,3,6,5,6}));
     }
 }
